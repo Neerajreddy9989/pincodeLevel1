@@ -1,0 +1,20 @@
+#name{
+  width: 150px;
+  height: 30px;
+}
+#check{
+  width: 50px;
+  height: 30px;
+  margin: 20px;
+}
+
+#insert{
+  width: 50px;
+  height: 40px;
+  margin: 20px;
+}
+#edit{
+  width: 100px;
+  height: 40px;
+  margin: 20px;
+}
